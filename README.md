@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 <h2>💻 Tech Stack</h2>  
 <h3>Backend</h3>
@@ -29,5 +29,29 @@
 <h2>📚 Certificates</h2>  
 <img src="https://img.shields.io/badge/정보처리기사-117ACA?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/웹디자인기능사-F57C00?style=for-the-badge&logoColor=white"/>
-
+<br>
+<br>
+<hr>
+<h2>💼 Career</h2>
+<img src="https://img.shields.io/badge/리본알파-0C6E9C?style=for-the-badge&logoColor=white"/><br>
+- 스타트업 웹/앱 플랫폼을 개발하는 회사로 2021.3 ~ 2024.11 까지 근무<br>  
+- PHP 기반 웹 백엔드 및 퍼블리싱 업무 수행<br>  
+- 입사 초기 웹 디자이너/웹 퍼블리셔 → 백엔드 개발자 → 개발팀 PM으로 성장<br>  
+- 다양한 프로젝트에 참여하며 기획 문서 작성, 서버 세팅, 배포 등 실무 전반 경험<br>
+- 스타트업 특성상 개발 외에도 멀티태스킹 기반의 실무 능력을 쌓음<br>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
